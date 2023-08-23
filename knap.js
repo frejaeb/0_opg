@@ -1,7 +1,7 @@
-const minKnap = document.querySelector ("#knapElement");
+const minKnap = document.querySelector("#knapElement");
 
-minKnap. addEventListener ("click",functionDerKaldesVedKlik);
+minKnap.addEventListener("click", functionDerKaldesVedKlik);
 
-function functionDerKaldesVedKlik () {
-    console.log ("du har klikket på knappen");
+function functionDerKaldesVedKlik() {
+  console.log("du har klikket på knappen");
 }
